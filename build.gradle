@@ -27,7 +27,6 @@ dependencies {
             'io.rest-assured:rest-assured:4.4.0',
             'org.assertj:assertj-core:3.20.2',
             'com.fasterxml.jackson.core:jackson-databind:2.11.2',
-            'org.json:json:20210307',
             'com.codeborne:selenide:5.23.2',
             'io.qameta.allure:allure-junit5:2.14.0',
             'io.qameta.allure:allure-selenide:2.14.0',
